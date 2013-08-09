@@ -1,6 +1,12 @@
 # Object files
 *.o
 
+# pyc files
+*.pyc
+
+# swp files
+*.swp
+
 # Libraries
 *.lib
 *.a
